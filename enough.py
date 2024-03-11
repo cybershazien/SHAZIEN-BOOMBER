@@ -15,7 +15,7 @@ for attribute in dir(SendSms):
 while 1:
     system("cls||clear")
     print("""{}
-     ᴄʏʙᴇʀ.ꜱʜᴀᴢɪᴇɴ                        _     
+    Ⓒⓨⓑⓔⓡ    .Ⓢⓗⓐⓩⓘⓔⓝ                         
      
     
     Sms: {}           {}by {}@tingirifistik\n  
